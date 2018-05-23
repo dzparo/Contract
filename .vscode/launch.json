@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "NAVAPP02",
+            "server": "http://navapp02",
+            "serverInstance": "SwfabDev",
+            "authentication": "Windows",
+            //"startupObjectId": 22
+        }
+    ]
+}

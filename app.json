@@ -1,0 +1,23 @@
+{
+  "id": "e222a2df-00bd-40e1-8af3-650a02325f96",
+  "name": "Contract",
+  "publisher": "dizparc",
+  "brief": "Contract",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 71100,
+    "to": 71120
+  }
+}
